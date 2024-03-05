@@ -1,0 +1,14 @@
+E:\Учеба\GeekBrains\C#\lesson1\task1\bin\Debug\net7.0\task1.exe
+E:\Учеба\GeekBrains\C#\lesson1\task1\bin\Debug\net7.0\task1.deps.json
+E:\Учеба\GeekBrains\C#\lesson1\task1\bin\Debug\net7.0\task1.runtimeconfig.json
+E:\Учеба\GeekBrains\C#\lesson1\task1\bin\Debug\net7.0\task1.dll
+E:\Учеба\GeekBrains\C#\lesson1\task1\bin\Debug\net7.0\task1.pdb
+E:\Учеба\GeekBrains\C#\lesson1\task1\obj\Debug\net7.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\GeekBrains\C#\lesson1\task1\obj\Debug\net7.0\task1.AssemblyInfoInputs.cache
+E:\Учеба\GeekBrains\C#\lesson1\task1\obj\Debug\net7.0\task1.AssemblyInfo.cs
+E:\Учеба\GeekBrains\C#\lesson1\task1\obj\Debug\net7.0\task1.csproj.CoreCompileInputs.cache
+E:\Учеба\GeekBrains\C#\lesson1\task1\obj\Debug\net7.0\task1.dll
+E:\Учеба\GeekBrains\C#\lesson1\task1\obj\Debug\net7.0\refint\task1.dll
+E:\Учеба\GeekBrains\C#\lesson1\task1\obj\Debug\net7.0\task1.pdb
+E:\Учеба\GeekBrains\C#\lesson1\task1\obj\Debug\net7.0\task1.genruntimeconfig.cache
+E:\Учеба\GeekBrains\C#\lesson1\task1\obj\Debug\net7.0\ref\task1.dll
